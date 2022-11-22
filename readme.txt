@@ -1,0 +1,1 @@
+Make a .rb file named main.rb to make it work.
